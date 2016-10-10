@@ -1,5 +1,5 @@
 # cerebro
-This is the github page for the cerebro. [This link](www.google.com) takes you to the web page.
+This is the github page for the cerebro. [This link](https://kyorgancioglu.github.io/CerebroApp/) takes you to the web page.
 This page is built in partial fulfillment of the requirement of the senior design project course CS491.
 
 
